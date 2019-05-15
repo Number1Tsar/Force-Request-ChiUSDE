@@ -7,15 +7,6 @@ We developed the system based on legacy code. The legacy code can let students m
 
 We solved these problems in our newly developed Force Request System (FRS). It is a standalone web application, which includes the functionality of the previous system, part of CSnet. We have two stakeholders of this web application. One is the student and other the administrator. 
 
-----------
-Developer Team 2017
--------------
-Leyi Hu,
-Mo Li,
-Minrui Wang<br>
-Shuocun Li,
-Ying Wang,
-Jiechen Zhong
 
 ----------
 Developer Team 2018
